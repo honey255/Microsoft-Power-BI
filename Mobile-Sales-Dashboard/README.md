@@ -30,12 +30,12 @@ Clean and professional visual theme
 -----------------------------------------
 
 ### 📷 Dashboard Preview
-![Dashboard Preview](https://github.com/honey255/Microsoft-Power-BI/blob/Mobile-Sales-Data/Dashboard%20Image.png)
+![Dashboard Preview](https://github.com/honey255/Microsoft-Power-BI/blob/main/Mobile-Sales-Dashboard/Dashboard%20Image.png)
 
 -----------------------------------------
 
 ### 🚀 Getting Started  
-Download the Power BI file → [Click Here](https://github.com/honey255/Microsoft-Power-BI/blob/Mobile-Sales-Data/Dashboard.pbix)  
+Download the Power BI file → [Click Here](https://github.com/honey255/Microsoft-Power-BI/blob/main/Mobile-Sales-Dashboard/Mobile%20Sales%20Data.xlsx)  
 Open in Microsoft Power BI Desktop  
 Refresh data source if required  
 Use slicers (Month, Brand, Payment Method, Model) to explore data  
