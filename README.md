@@ -13,37 +13,29 @@ Each project folder contains:
 🖼️ Screenshots – High-quality dashboard preview images  
 
 ### 🚀 Key Skills Demonstrated
-**🔹 Power Query (M Language)**  
+🔹 **Power Query (M Language)**  
 Data cleaning & transformation  
 Removing nulls, splitting columns, merging data  
 Creating custom columns  
 Applying business rules  
 
- **🔹 Data Modeling**  
+ 🔹 **Data Modeling**  
 Star schema design  
 Relationship management  
 Fact & dimension tables  
 Normalization for reporting performance  
 
-### 🔹 DAX (Data Analysis Expressions)
+🔹 **DAX (Data Analysis Expressions)**  
 Calculated measures & KPIs  
 Logical, aggregation & time-intelligence formulas  
 Comparison metrics (MTD, YTD, YOY)  
 Custom business logic  
 
-### 🔹 Visualization & Dashboard Design
+🔹 **Visualization & Dashboard Design**  
 User-friendly layouts  
 Filters, slicers & drill-through  
 KPI cards & interactive visuals  
-Tooltips & conditional formatting  
-
-### 📊 Types of Projects Included
-Sales Analytics Dashboards  
-Customer Behavior Analysis  
-Finance & Revenue Reporting  
-E-commerce & Retail Insights  
-Operational Performance Reports  
-(You can add more projects anytime.)  
+Tooltips & conditional formatting   
 
 ### 🧰 Tools Used
 Microsoft Power BI Desktop  
