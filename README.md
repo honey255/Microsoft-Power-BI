@@ -4,6 +4,8 @@ A collection of professional Power BI dashboards and data analytics projects sho
 
 This repository serves as a Data Analyst portfolio, demonstrating the ability to convert raw data into meaningful business insights.
 
+---------------------------
+
 ### 📁 Repository Structure
 Each project folder contains:  
 📘 README – Project explanation, features, steps, and insights  
@@ -11,6 +13,8 @@ Each project folder contains:
 📊 PBIX File – Power BI report/dashboard  
 📄 Documentation – SQL queries / DAX / PPT (if applicable)  
 🖼️ Screenshots – High-quality dashboard preview images  
+
+------------------------------
 
 ### 🚀 Key Skills Demonstrated
 🔹 **Power Query (M Language)**  
@@ -37,6 +41,8 @@ Filters, slicers & drill-through
 KPI cards & interactive visuals  
 Tooltips & conditional formatting   
 
+------------------------------
+
 ### 🧰 Tools Used
 Microsoft Power BI Desktop  
 Power Query Editor  
@@ -44,12 +50,16 @@ DAX
 Excel / CSV Data Sources  
 SQL (in some projects)  
 
+------------------------------
+
 ### 📝 How to Use
 Clone or download the repository  
 Open any project folder  
 Download the .pbix file  
 Open it in Microsoft Power BI Desktop  
 Explore the report, visuals, and data model  
+
+------------------------------
 
 ### 📬 Contact
 Created by: Priyanshu Siwach  
