@@ -64,4 +64,4 @@ Explore the report, visuals, and data model
 ### 📬 Contact
 Created by: Priyanshu Siwach  
 📧 Email: siwachpriyanshu@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-siwach-b7a807174/  
+🔗 LinkedIn: [Click here](https://www.linkedin.com/in/priyanshu-siwach-b7a807174/)  
