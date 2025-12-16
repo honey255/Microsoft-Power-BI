@@ -30,7 +30,7 @@ Clean and professional visual theme
 -----------------------------------------
 
 ### 📷 Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/honey255/Microsoft-Power-BI/blob/main/Mobile-Sales-Dashboard/Dashboard%20Image.png)
 
 -----------------------------------------
 
