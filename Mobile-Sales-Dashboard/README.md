@@ -7,14 +7,14 @@ This project demonstrates strong skills in Power BI DAX, data modeling, data cle
 
 ### 📂 Project Structure
 
-• **Dataset (CSV/Excel)**  
-Cleaned and structured dataset containing date, brand, sales amount, quantity, city, model, payment method, and customer ratings.  
+• **Dashboard Page**  
+Final interactive dashboard with slicers, KPIs, charts, and maps.  
 
 • **Power BI File (PBIX)**  
 Includes data model, DAX measures, calculated columns, report pages, and visuals.  
 
-• **Dashboard Page**  
-Final interactive dashboard with slicers, KPIs, charts, and maps.  
+• **Dataset (CSV/Excel)**  
+Cleaned and structured dataset containing date, brand, sales amount, quantity, city, model, payment method, and customer ratings.  
 
 -----------------------------------------
 
